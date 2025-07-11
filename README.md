@@ -52,5 +52,5 @@ El objetivo principal de este proyecto es mejorar la estrategia de inversión de
 
 - [Héctor García Rincón](https://github.com/hectorgarciaa)
 - [Mario López Díaz](https://github.com/ARTEMVARTANOV)
-- [Ignacio Gutiérrez Sánchez](https://github.com/nacho2606)
+- [Ignacio Gutiérrez Sánchez](https://github.com/IgnacioGutierrezSanchez)
     
